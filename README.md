@@ -228,5 +228,5 @@ Upcoming phases will include:
 # 👨‍💻 Author
 
 * Lavanya Patil
-* B.Tech CSBS Student
+* B.Tech (Data Science) Student
 * Aspiring Data Scientist & ML Engineer
