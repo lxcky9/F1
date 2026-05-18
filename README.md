@@ -150,7 +150,7 @@ Lower MAE = Better model.
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/lxcky9/F1.git
 ```
 
 ---
